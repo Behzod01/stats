@@ -1,5 +1,5 @@
-module github.com/Behzod01/stats
+module github.com/Behzod01/stats/v2
 
 go 1.17
 
-require github.com/Behzod01/bank v0.0.0-20210919211510-0dfd3bebc83d // indirect
+require github.com/Behzod01/bank/v2 v2.0.0

@@ -1,4 +1,2 @@
-github.com/Behzod01/bank v0.0.0-20210919205848-759c52440e1e h1:S/DrhArgA/3LDtvne22Vz6P82jY3GZXl19roIo18CT0=
-github.com/Behzod01/bank v0.0.0-20210919205848-759c52440e1e/go.mod h1:Nx/dlgE784OrOEBh4m1SkAJrYqln+3VP7kF9fPEIdcA=
-github.com/Behzod01/bank v0.0.0-20210919211510-0dfd3bebc83d h1:na7go/0Dw5ZCA98ZtsFiSACJvTYZptUwq37LxTeNl5A=
-github.com/Behzod01/bank v0.0.0-20210919211510-0dfd3bebc83d/go.mod h1:Nx/dlgE784OrOEBh4m1SkAJrYqln+3VP7kF9fPEIdcA=
+github.com/Behzod01/bank/v2 v2.0.0 h1:4CeP6R6IK/LBFPIHVJPXEbSvxt0DPF5qayeL6W2pZVw=
+github.com/Behzod01/bank/v2 v2.0.0/go.mod h1:5wfdFFNMoitcJHJMfk5MW+gd6kmiOpGnp3Yy5gJLpSQ=
